@@ -28,3 +28,7 @@ UIImage+Resize
 UIImage+WaterImage
 ====
 通过绘制，在一个图片上绘制出想要的水印，达到新浪微博用户发送图片自带用户ID的功能
+
+YRFocusView
+====
+通过UIScrollView和NSTimer在UIView中进行图片的自动滚动，外带解决了当用户进行拖动的时候出现的bug
